@@ -461,8 +461,8 @@ export default function App() {
           animate={{ opacity: 1 }}
           transition={{ duration: 0.6, delay: 1 }}
         >
-          <div className="text-xs text-black/50">
-
+          <div className="text-xs text-black/50 flex items-center justify-center gap-1">
+            Made with <span className="text-red-500">❤️</span> by <a href="https://github.com/EyalIv" target="_blank" rel="noopener noreferrer" className="hover:text-black transition-colors underline decoration-black/20 hover:decoration-black/50">Eyal Ivri</a>
           </div>
         </motion.footer>
       </div>
