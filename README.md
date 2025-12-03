@@ -2,11 +2,13 @@
 
 A modern, interactive implementation of John Conway's famous cellular automaton. Built as a portfolio piece and educational tool to demonstrate emergent complexity from simple rules.
 
-![Conway's Game of Life Demo](./demo.gif)
+![Conway's Game of Life Demo](./assets/demo.gif)
 
 ## 🎮 [Live Demo](https://eyaliv.github.io/conway-game-of-life/)
 
 ## Features
+
+![Screenshot](./assets/screenshot.png)
 
 - **Interactive Grid** – Click cells to toggle them on/off
 - **Pattern Library** – Load classic patterns (Glider, Blinker, Gosper Gun, etc.)
